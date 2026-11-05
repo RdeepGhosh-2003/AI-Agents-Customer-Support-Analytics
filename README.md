@@ -24,7 +24,7 @@ This interactive 3-page Power BI report analyzes **12,000 customer-support ticke
 ## 🖥️ Inside the 3-Page Interactive Report
 
 ### Page 1: Executive Overview — *The AI vs. Human Value Paradox*
-![Page 1 - Executive Overview](assets/page1_executive_overview.png)
+<img width="671" height="379" alt="Overview" src="https://github.com/user-attachments/assets/a6d41416-41d7-4996-9804-abd4c2342231" />
 
 Page 1 establishes the high-level performance baseline across support paths, channels, customer tiers, and product families:
 * **Ticket Volume by Support Path & Channel:** Shows how the 12,000 tickets split across **AI-Only (4,724 tickets | 39.4%)**, **Human-Only (3,820 tickets | 31.8%)**, and **AI → Human (3,456 tickets | 28.8%)**, with interactive drill-downs into Channel and Priority.
@@ -35,7 +35,7 @@ Page 1 establishes the high-level performance baseline across support paths, cha
 ---
 
 ### Page 2: Escalation & Handoff Diagnostics — *Why AI Fails & The Cost of Waiting*
-![Page 2 - Escalation & Handoff Diagnostics](assets/page2_escalation_diagnostics.png)
+<img width="667" height="377" alt="Escalation   Handoff Diagnostics" src="https://github.com/user-attachments/assets/e98bd66e-f6c9-4035-baf0-35f2626d1dbb" />
 
 While **AI → Human** escalations represent only **28.8% of ticket volume**, they consume **57.5% of the entire support budget (€93.63K)** and generate **€28.70K in 7-day repeat-contact waste**. Page 2 diagnoses the root causes:
 * **Why AI Transfers to Humans:** **Low answer confidence (844 tickets | €20.22/ticket)** and **Customer requested human (808 tickets | €19.70/ticket)** drive nearly half (**47.8%**) of all handoffs. Meanwhile, **Missing technical knowledge (436 tickets)** is the most expensive escalation driver at **€55.98 per ticket**, followed by **Policy restriction (571 tickets)** at **€35.27 per ticket**.
@@ -50,7 +50,6 @@ While **AI → Human** escalations represent only **28.8% of ticket volume**, th
 ---
 
 ### Page 3: Routing Optimization & Action Plan — *Where to Automate vs. Route to Humans*
-![Page 3 - Routing Optimization & Action Plan](assets/page3_routing_action_plan.png)
 
 Page 3 translates diagnostic findings into an operational routing matrix and a quantified action plan for leadership:
 * **Support Spend Breakdown (AI vs. Human vs. Repeat Cost):** Reveals that **Technical Support (€69.0K total | €23.96/ticket)** and **Billing & Refunds (€34.2K total | €19.58/ticket)** consume **63.4% of the total budget** and **64.6% of all repeat-contact costs**.
